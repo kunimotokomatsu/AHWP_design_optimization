@@ -1,7 +1,7 @@
 # AHWP design optimization
 The detail of the AHWP and the functions used in this code can be found in [AHWP related functions](https://github.com/kunimotokomatsu/AHWP_related_functions).  
 This code optimize the AHWP design with rondomizing the optic axis angles with a unity distribution under two conditions.  
-About this conditions and optimization methods, please see [K. Komatsu et al. (2021)](http://dx.doi.org/10.1117/1.JATIS.7.3.034005) [[arXiv](https://arxiv.org/abs/2105.05561)].
+About this conditions and optimization methods, please see [K. Komatsu et al. (2021)](http://dx.doi.org/10.1117/1.JATIS.7.3.034005) [[arXiv](https://arxiv.org/abs/2105.05561)].  
 **Please edit line 24-44 to suit your case.**   
 
 ## Parameters
